@@ -1,0 +1,5 @@
+{
+  "name": "LCD Matrix Studio",
+  "description": "A professional tool for creating, editing, and converting bitmaps for embedded LCD/OLED displays (Arduino/PlatformIO). Features visual editing, C-array export, and AI-powered icon generation.",
+  "requestFramePermissions": []
+}
