@@ -1,6 +1,10 @@
 # LCD Matrix Studio
 
 A professional-grade, web-based bitmap editor designed specifically for embedded developers working with monochrome LCD/OLED displays (SSD1306, SH1106, Nokia 5110, etc.).
+!<img width="1909" height="995" alt="image" src="https://github.com/user-attachments/assets/706f262b-2d89-4551-9231-d8a75d5a7055" />
+
+
+## You can use it online here: https://doccaz.github.io/pixel-matrix-studio/
 
 ## Features
 
