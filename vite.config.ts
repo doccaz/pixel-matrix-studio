@@ -6,5 +6,8 @@ export default defineConfig({
   base: '/pixel-matrix-studio/',
   build: {
     outDir: 'dist',
+  },
+  define: {
+    'process.env': {} 
   }
 });
